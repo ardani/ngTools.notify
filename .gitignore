@@ -1,2 +1,4 @@
 .idea
 tests/coverage
+bower_components
+node_modules
