@@ -24,7 +24,8 @@ angular.module('Notify', [])
                     add  : function (message) {
                         var timestamp,
                             closable,
-                            message_tmp;
+                            message_tmp,
+                            status;
 
                         if ('string' === typeof message) {
                             message_tmp = {
