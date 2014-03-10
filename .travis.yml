@@ -4,6 +4,7 @@ node_js:
 
 before_script:
   - npm install --quiet -g karma
+  - bower install
 
 script:
   - karma start karma.conf.js --no-auto-watch --single-run --reporters=dots --browsers=Firefox,Chrome
