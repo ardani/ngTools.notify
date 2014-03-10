@@ -1,4 +1,4 @@
-# ngTools.notify
+# ngTools.notify [![Build Status](https://travis-ci.org/MathRobin/ngTools.notify.png?branch=master)](https://travis-ci.org/MathRobin/ngTools.notify)
 
 Another notification tool for AngularJS
 
